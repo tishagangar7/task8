@@ -1,6 +1,16 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+*$py.class
+
+# Environments
+.env/
+venv/
+
+# OS files
 .DS_Store
+
+# Prolog and FAISS artifacts
 *.sqlite
+faiss_index.faiss
 
