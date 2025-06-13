@@ -14,3 +14,4 @@ venv/
 *.sqlite
 faiss_index.faiss
 
+.env
